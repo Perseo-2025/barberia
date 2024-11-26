@@ -1,0 +1,18 @@
+{
+    "name": "user/app-salon_php_mvc_js_sass",
+    "description": "Proyecto PHP 8 MVC",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controllers\\": "./controllers",
+            "Model\\": "./models"
+        }
+    },
+    "authors": [
+        {
+            "name": "Perseo Cardenas",
+            "email": "perseocardenas2025@gmail.com"
+        }
+    ],
+    "require": {}
+}
